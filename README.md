@@ -81,9 +81,11 @@ Exploits official config mechanism. No binary mod, no MITM, no process tampering
 
 MIT
 
-可以的话赞赏一下喵，
+可以的话可以赞赏一下吗喵
 
-<img width="1170" height="1061" alt="download" src="https://github.com/user-attachments/assets/52767f5f-52c8-4054-b887-5e585fe96f16" />
+<img width="1456" height="1080" alt="download" src="https://github.com/user-attachments/assets/6d69d203-0e65-4817-9386-14e2131aacfd" />
+
+
 
 
 
